@@ -1,7 +1,10 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Tarun+%F0%9F%91%8B;AI+%7C+ML+%7C+Web+Dev+Explorer;Always+learning+and+building+cool+things!"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Tarun+%F0%9F%91%8B;AI+%7C+ML+%7C+Web+Dev+Explorer"/>
+</p>
+
 </p>
 
 ---
